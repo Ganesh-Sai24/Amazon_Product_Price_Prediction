@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+sentence-transformers
+transformers
+tqdm
+pillow
+nltk
+joblib
+category_encoders
+matplotlib
+seaborn
+scipy
+requests
