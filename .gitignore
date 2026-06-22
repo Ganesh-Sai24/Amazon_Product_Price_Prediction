@@ -1,0 +1,7 @@
+outputs/
+*.pt
+*.pkl
+*.npy
+*.csv
+__pycache__/
+*.pyc
